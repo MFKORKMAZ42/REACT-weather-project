@@ -8,4 +8,4 @@ Projede temel düzey HTML ve CSS bilgisi ile temel düzeyde JS ve REACT kullanı
 <h3> SİTE GÖRÜNÜMÜ </h3> </br>
 
 
-<img src="https://github.com/MFKORKMAZ42/weather-REACT-project/blob/master/gifweather.mp4"
+<img src="https://github.com/MFKORKMAZ42/weather-REACT-project/blob/master/gifweather.mp4">
