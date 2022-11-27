@@ -3,7 +3,7 @@
 
 <h2> Proje Hakkında </h2> </br>
 <p> Bu proje ilk react denemesidir. </br>
-Projede temel düzey HTML ve CSS bilgisi ile temel düzeyde JS ve REACT kullanılmıştır. </p> </br> </br>
+Projede temel düzey HTML ve CSS bilgisi ile temel düzeyde JS ve REACT kullanılmıştır.. </p> </br> </br>
 
 <h3> SİTE GÖRÜNÜMÜ </h3> </br>
 
